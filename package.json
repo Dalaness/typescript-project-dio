@@ -1,0 +1,28 @@
+{
+  "name": "typescript-project-dio",
+  "version": "1.0.0",
+  "description": "Projeto de TypeScript produzido para o Bootcamp Santander Fullstack Developer - sob orientação da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalaness/typescript-project-dio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dalaness/typescript-project-dio/issues"
+  },
+  "homepage": "https://github.com/Dalaness/typescript-project-dio#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
